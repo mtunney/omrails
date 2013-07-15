@@ -21,3 +21,6 @@ doc
 .idea
 
 /public/system
+
+#Ignore sampleimages
+/sampleimage
